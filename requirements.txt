@@ -1,0 +1,7 @@
+pandas
+openpyxl
+pyodbc
+gspread
+google-auth
+playwright
+pywin32

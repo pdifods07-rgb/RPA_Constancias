@@ -1,0 +1,734 @@
+2026-02-25 09:53:24,839 | INFO | === INICIO DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 09:53:24,867 | INFO | === FIN DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 09:56:57,079 | INFO | === INICIO DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 09:56:57,103 | INFO | Se obtuvo información de la vista
+2026-02-25 09:56:58,825 | INFO | Se obtuvo información del googlesheet
+2026-02-25 09:56:58,826 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 09:56:58,826 | INFO | Validación aún pendiente de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 09:56:58,826 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 09:56:58,827 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 09:56:58,827 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 09:56:58,827 | INFO | Validación aún pendiente de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 09:56:58,827 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 09:56:58,828 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 09:56:58,828 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 09:56:58,828 | INFO | Validación aún pendiente de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 09:56:58,828 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 09:56:58,828 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 09:56:58,828 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 09:56:58,829 | INFO | Validación aún pendiente de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 09:56:58,829 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 09:56:58,829 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 09:56:58,829 | INFO | Terminó validación del día
+2026-02-25 09:57:18,019 | INFO | === FIN DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 10:02:31,032 | INFO | === INICIO DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 10:02:31,056 | INFO | Se obtuvo información de la vista
+2026-02-25 10:02:33,368 | INFO | Se obtuvo información del googlesheet
+2026-02-25 10:02:33,368 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 10:02:33,369 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 10:02:33,369 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 10:02:33,369 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 10:02:33,370 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 10:02:33,370 | INFO | Validación aún pendiente de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 10:02:33,370 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 10:02:33,370 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 10:02:33,371 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 10:02:33,371 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 10:02:33,371 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 10:02:33,372 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 10:02:33,372 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 10:02:33,372 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 10:02:33,372 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 10:02:33,372 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 10:02:33,373 | INFO | Terminó validación del día
+2026-02-25 10:02:52,992 | INFO | === FIN DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 10:08:51,987 | INFO | === INICIO DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 10:08:52,011 | INFO | Se obtuvo información de la vista
+2026-02-25 10:08:53,944 | INFO | Se obtuvo información del googlesheet
+2026-02-25 10:08:53,944 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 10:08:53,944 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 10:08:53,944 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 10:08:53,945 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 10:08:53,945 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 10:08:53,945 | INFO | Validación aún pendiente de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 10:08:53,945 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 10:08:53,946 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 10:08:53,946 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 10:08:53,946 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 10:08:53,946 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 10:08:53,946 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 10:08:53,947 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 10:08:53,947 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 10:08:53,947 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 10:08:53,947 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 10:08:53,947 | INFO | Terminó validación del día
+2026-02-25 10:08:58,175 | INFO | Se envió correos de ofertas validades correctamente
+2026-02-25 10:08:58,735 | INFO | Se envió correos de ofertas pendientes de validar
+2026-02-25 10:08:58,735 | INFO | === FIN DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 10:44:00,629 | ERROR | Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection.run.<locals>.init() running at D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py:310> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[ProtocolCallback.__init__.<locals>.cb() at D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py:230]>
+2026-02-25 10:54:54,332 | INFO | === INICIO DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 10:54:54,358 | INFO | Se obtuvo información de la vista
+2026-02-25 10:54:56,689 | INFO | Se obtuvo información del googlesheet
+2026-02-25 10:54:56,689 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 10:54:56,689 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 10:54:56,690 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 10:54:56,690 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 10:54:56,690 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 10:54:56,690 | INFO | Validación aún pendiente de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 10:54:56,691 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 10:54:56,691 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 10:54:56,691 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 10:54:56,691 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 10:54:56,691 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 10:54:56,692 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 10:54:56,692 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 10:54:56,692 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 10:54:56,692 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 10:54:56,692 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 10:54:56,693 | INFO | Terminó validación del día
+2026-02-25 10:54:57,180 | INFO | Se envió correos de ofertas validades correctamente
+2026-02-25 10:54:57,238 | INFO | Se envió correos de ofertas pendientes de validar
+2026-02-25 10:54:57,238 | INFO | === FIN DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 11:24:49,031 | INFO | === INICIO DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 11:24:49,055 | INFO | Se obtuvo información de la vista
+2026-02-25 11:24:51,782 | INFO | Se obtuvo información del googlesheet
+2026-02-25 11:24:51,783 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 11:24:51,783 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 11:24:51,783 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 11:24:51,783 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 11:24:51,784 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 11:24:51,784 | INFO | Validación aún pendiente de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 11:24:51,784 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 11:24:51,785 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 11:24:51,785 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 11:24:51,785 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 11:24:51,785 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 11:24:51,785 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 11:24:51,786 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 11:24:51,786 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 11:24:51,786 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 11:24:51,786 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 11:24:51,787 | INFO | Terminó validación del día
+2026-02-25 11:24:51,954 | INFO | Se envió correos de ofertas validades correctamente
+2026-02-25 11:24:52,010 | INFO | Se envió correos de ofertas pendientes de validar
+2026-02-25 11:24:52,011 | INFO | === FIN DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 14:39:35,904 | INFO | Iniciando procesamiento de parámetros...
+2026-02-25 14:39:45,485 | INFO | Iniciando procesamiento de constancias...
+2026-02-25 14:40:08,005 | WARNING | [generar] intento 1/2 falló: Page.wait_for_timeout: Target page, context or browser has been closed
+2026-02-25 14:40:08,611 | WARNING | [generar] intento 2/2 falló: Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:09,819 | ERROR | [ERROR] generar_constancia_1654_GRUPO 03 | Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:09,819 | ERROR | Traceback (most recent call last):
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 280, in guard_step
+    return fn()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 513, in <lambda>
+    lambda: retry(_generar, tries=2, step_name="generar", logger=logger)
+            ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 230, in retry
+    raise last
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 224, in retry
+    return action()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 454, in _generar
+    row_loc.wait_for(state="visible", timeout=20000)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 18074, in wait_for
+    self._sync(self._impl_obj.wait_for(timeout=timeout, state=state))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_locator.py", line 710, in wait_for
+    await self._frame.wait_for_selector(
+        self._selector, strict=True, timeout=timeout, state=state
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_frame.py", line 369, in wait_for_selector
+    await self._channel.send(
+        "waitForSelector", self._timeout, locals_to_params(locals())
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Locator.wait_for: Target page, context or browser has been closed
+
+2026-02-25 14:40:09,828 | ERROR | [ERROR] oferta_goto_1654 | Page.goto: Target page, context or browser has been closed
+2026-02-25 14:40:09,829 | ERROR | Traceback (most recent call last):
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 280, in guard_step
+    return fn()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 441, in _abrir_oferta
+    pagina.goto(URLOFERTA, timeout=60000)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 9054, in goto
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.goto(
+        ^^^^^^^^^^^^^^^^^^^^
+            url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Page.goto: Target page, context or browser has been closed
+
+2026-02-25 14:40:09,842 | WARNING | [generar] intento 1/2 falló: Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:10,446 | WARNING | [generar] intento 2/2 falló: Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:11,652 | ERROR | [ERROR] generar_constancia_1654_GRUPO 04 | Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:11,652 | ERROR | Traceback (most recent call last):
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 280, in guard_step
+    return fn()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 513, in <lambda>
+    lambda: retry(_generar, tries=2, step_name="generar", logger=logger)
+            ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 230, in retry
+    raise last
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 224, in retry
+    return action()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 454, in _generar
+    row_loc.wait_for(state="visible", timeout=20000)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 18074, in wait_for
+    self._sync(self._impl_obj.wait_for(timeout=timeout, state=state))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_locator.py", line 710, in wait_for
+    await self._frame.wait_for_selector(
+        self._selector, strict=True, timeout=timeout, state=state
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_frame.py", line 369, in wait_for_selector
+    await self._channel.send(
+        "waitForSelector", self._timeout, locals_to_params(locals())
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Locator.wait_for: Target page, context or browser has been closed
+
+2026-02-25 14:40:11,662 | ERROR | [ERROR] oferta_goto_1655 | Page.goto: Target page, context or browser has been closed
+2026-02-25 14:40:11,663 | ERROR | Traceback (most recent call last):
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 280, in guard_step
+    return fn()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 441, in _abrir_oferta
+    pagina.goto(URLOFERTA, timeout=60000)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 9054, in goto
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.goto(
+        ^^^^^^^^^^^^^^^^^^^^
+            url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Page.goto: Target page, context or browser has been closed
+
+2026-02-25 14:40:11,669 | WARNING | [generar] intento 1/2 falló: Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:12,272 | WARNING | [generar] intento 2/2 falló: Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:13,489 | ERROR | [ERROR] generar_constancia_1655_GRUPO 01 | Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:13,490 | ERROR | Traceback (most recent call last):
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 280, in guard_step
+    return fn()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 513, in <lambda>
+    lambda: retry(_generar, tries=2, step_name="generar", logger=logger)
+            ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 230, in retry
+    raise last
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 224, in retry
+    return action()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 454, in _generar
+    row_loc.wait_for(state="visible", timeout=20000)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 18074, in wait_for
+    self._sync(self._impl_obj.wait_for(timeout=timeout, state=state))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_locator.py", line 710, in wait_for
+    await self._frame.wait_for_selector(
+        self._selector, strict=True, timeout=timeout, state=state
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_frame.py", line 369, in wait_for_selector
+    await self._channel.send(
+        "waitForSelector", self._timeout, locals_to_params(locals())
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Locator.wait_for: Target page, context or browser has been closed
+
+2026-02-25 14:40:13,499 | ERROR | [ERROR] oferta_goto_1655 | Page.goto: Target page, context or browser has been closed
+2026-02-25 14:40:13,500 | ERROR | Traceback (most recent call last):
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 280, in guard_step
+    return fn()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 441, in _abrir_oferta
+    pagina.goto(URLOFERTA, timeout=60000)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 9054, in goto
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.goto(
+        ^^^^^^^^^^^^^^^^^^^^
+            url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Page.goto: Target page, context or browser has been closed
+
+2026-02-25 14:40:13,506 | WARNING | [generar] intento 1/2 falló: Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:14,108 | WARNING | [generar] intento 2/2 falló: Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:15,314 | ERROR | [ERROR] generar_constancia_1655_GRUPO 02 | Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:15,315 | ERROR | Traceback (most recent call last):
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 280, in guard_step
+    return fn()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 513, in <lambda>
+    lambda: retry(_generar, tries=2, step_name="generar", logger=logger)
+            ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 230, in retry
+    raise last
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 224, in retry
+    return action()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 454, in _generar
+    row_loc.wait_for(state="visible", timeout=20000)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 18074, in wait_for
+    self._sync(self._impl_obj.wait_for(timeout=timeout, state=state))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_locator.py", line 710, in wait_for
+    await self._frame.wait_for_selector(
+        self._selector, strict=True, timeout=timeout, state=state
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_frame.py", line 369, in wait_for_selector
+    await self._channel.send(
+        "waitForSelector", self._timeout, locals_to_params(locals())
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Locator.wait_for: Target page, context or browser has been closed
+
+2026-02-25 14:40:15,327 | ERROR | [ERROR] oferta_goto_1655 | Page.goto: Target page, context or browser has been closed
+2026-02-25 14:40:15,328 | ERROR | Traceback (most recent call last):
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 280, in guard_step
+    return fn()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 441, in _abrir_oferta
+    pagina.goto(URLOFERTA, timeout=60000)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 9054, in goto
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.goto(
+        ^^^^^^^^^^^^^^^^^^^^
+            url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Page.goto: Target page, context or browser has been closed
+
+2026-02-25 14:40:15,333 | WARNING | [generar] intento 1/2 falló: Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:15,936 | WARNING | [generar] intento 2/2 falló: Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:17,142 | ERROR | [ERROR] generar_constancia_1655_GRUPO 03 | Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:17,143 | ERROR | Traceback (most recent call last):
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 280, in guard_step
+    return fn()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 513, in <lambda>
+    lambda: retry(_generar, tries=2, step_name="generar", logger=logger)
+            ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 230, in retry
+    raise last
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 224, in retry
+    return action()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 454, in _generar
+    row_loc.wait_for(state="visible", timeout=20000)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 18074, in wait_for
+    self._sync(self._impl_obj.wait_for(timeout=timeout, state=state))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_locator.py", line 710, in wait_for
+    await self._frame.wait_for_selector(
+        self._selector, strict=True, timeout=timeout, state=state
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_frame.py", line 369, in wait_for_selector
+    await self._channel.send(
+        "waitForSelector", self._timeout, locals_to_params(locals())
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Locator.wait_for: Target page, context or browser has been closed
+
+2026-02-25 14:40:17,153 | ERROR | [ERROR] oferta_goto_1655 | Page.goto: Target page, context or browser has been closed
+2026-02-25 14:40:17,153 | ERROR | Traceback (most recent call last):
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 280, in guard_step
+    return fn()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 441, in _abrir_oferta
+    pagina.goto(URLOFERTA, timeout=60000)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 9054, in goto
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.goto(
+        ^^^^^^^^^^^^^^^^^^^^
+            url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Page.goto: Target page, context or browser has been closed
+
+2026-02-25 14:40:17,160 | WARNING | [generar] intento 1/2 falló: Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:17,762 | WARNING | [generar] intento 2/2 falló: Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:18,967 | ERROR | [ERROR] generar_constancia_1655_GRUPO 04 | Locator.wait_for: Target page, context or browser has been closed
+2026-02-25 14:40:18,968 | ERROR | Traceback (most recent call last):
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 280, in guard_step
+    return fn()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 513, in <lambda>
+    lambda: retry(_generar, tries=2, step_name="generar", logger=logger)
+            ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 230, in retry
+    raise last
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 224, in retry
+    return action()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 454, in _generar
+    row_loc.wait_for(state="visible", timeout=20000)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 18074, in wait_for
+    self._sync(self._impl_obj.wait_for(timeout=timeout, state=state))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_locator.py", line 710, in wait_for
+    await self._frame.wait_for_selector(
+        self._selector, strict=True, timeout=timeout, state=state
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_frame.py", line 369, in wait_for_selector
+    await self._channel.send(
+        "waitForSelector", self._timeout, locals_to_params(locals())
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Locator.wait_for: Target page, context or browser has been closed
+
+2026-02-25 14:40:19,257 | INFO | === INICIO DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 14:40:19,269 | INFO | Se obtuvo información de la vista
+2026-02-25 14:40:21,115 | INFO | Se obtuvo información del googlesheet
+2026-02-25 14:40:21,115 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 14:40:21,116 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 14:40:21,116 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 14:40:21,116 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 14:40:21,116 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 14:40:21,116 | INFO | Validación aún pendiente de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 14:40:21,117 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 14:40:21,117 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 14:40:21,117 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 14:40:21,117 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 14:40:21,117 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 14:40:21,118 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 14:40:21,118 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 14:40:21,118 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 14:40:21,118 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 14:40:21,118 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 14:40:21,118 | INFO | Terminó validación del día
+2026-02-25 14:40:21,570 | INFO | Se envió correos de ofertas validades correctamente
+2026-02-25 14:40:21,623 | INFO | Se envió correos de ofertas pendientes de validar
+2026-02-25 14:40:21,624 | INFO | === FIN DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 14:40:59,674 | INFO | Iniciando procesamiento de parámetros...
+2026-02-25 14:41:09,273 | INFO | Iniciando procesamiento de constancias...
+2026-02-25 14:42:16,081 | INFO | === INICIO DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 14:42:16,102 | INFO | Se obtuvo información de la vista
+2026-02-25 14:42:17,769 | INFO | Se obtuvo información del googlesheet
+2026-02-25 14:42:17,770 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 14:42:17,770 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 14:42:17,770 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 14:42:17,771 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 14:42:17,771 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 14:42:17,771 | INFO | Validación aún pendiente de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 14:42:17,772 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 14:42:17,772 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 14:42:17,772 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 14:42:17,772 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 14:42:17,773 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 14:42:17,773 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 14:42:17,773 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 14:42:17,773 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 14:42:17,773 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 14:42:17,774 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 14:42:17,774 | INFO | Terminó validación del día
+2026-02-25 14:42:17,872 | INFO | Se envió correos de ofertas validades correctamente
+2026-02-25 14:42:17,936 | INFO | Se envió correos de ofertas pendientes de validar
+2026-02-25 14:42:17,936 | INFO | === FIN DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 15:29:28,562 | INFO | Iniciando procesamiento de parámetros...
+2026-02-25 15:29:42,338 | INFO | Iniciando procesamiento de constancias...
+2026-02-25 15:30:54,006 | INFO | === INICIO DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 15:30:54,027 | INFO | Se obtuvo información de la vista
+2026-02-25 15:30:56,566 | INFO | Se obtuvo información del googlesheet
+2026-02-25 15:30:56,566 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 15:30:56,567 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 15:30:56,567 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 15:30:56,567 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 15:30:56,567 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 15:30:56,567 | INFO | Validación aún pendiente de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 15:30:56,568 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 15:30:56,568 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 15:30:56,568 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 15:30:56,568 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 15:30:56,568 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 15:30:56,569 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 15:30:56,569 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 15:30:56,569 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 15:30:56,569 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 15:30:56,569 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 15:30:56,570 | INFO | Terminó validación del día
+2026-02-25 15:30:57,182 | INFO | Se envió correos de ofertas validades correctamente
+2026-02-25 15:30:57,245 | INFO | Se envió correos de ofertas pendientes de validar
+2026-02-25 15:30:57,245 | INFO | === FIN DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 16:08:03,291 | INFO | Iniciando procesamiento de parámetros...
+2026-02-25 16:08:16,384 | INFO | Iniciando procesamiento de constancias...
+2026-02-25 16:09:26,570 | INFO | === INICIO DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 16:09:26,593 | INFO | Se obtuvo información de la vista
+2026-02-25 16:09:31,384 | INFO | Se obtuvo información del googlesheet
+2026-02-25 16:09:31,385 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 16:09:31,385 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 16:09:31,386 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 16:09:31,386 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 16:09:31,386 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 16:09:31,387 | INFO | Validación aún pendiente de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 16:09:31,387 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 16:09:31,387 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 16:09:31,388 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 16:09:31,388 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 16:09:31,388 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 16:09:31,389 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 16:09:31,389 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 16:09:31,389 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 16:09:31,389 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 16:09:31,390 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 16:09:31,390 | INFO | Terminó validación del día
+2026-02-25 16:09:31,921 | INFO | Se envió correos de ofertas validades correctamente
+2026-02-25 16:09:32,115 | INFO | Se envió correos de ofertas pendientes de validar
+2026-02-25 16:09:32,116 | INFO | === FIN DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 18:05:17,237 | INFO | Iniciando procesamiento de parámetros...
+2026-02-25 18:05:47,912 | ERROR | [ERROR] param_goto_164_538 | Locator.wait_for: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("nb-select") to be visible
+
+2026-02-25 18:05:47,913 | ERROR | Traceback (most recent call last):
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 280, in guard_step
+    return fn()
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 365, in _ir_parametros
+    wait_visible(pagina, "nb-select", timeout=30000)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\subp3\subproceso3.py", line 234, in wait_visible
+    page.locator(selector).wait_for(state="visible", timeout=timeout)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\sync_api\_generated.py", line 18074, in wait_for
+    self._sync(self._impl_obj.wait_for(timeout=timeout, state=state))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_locator.py", line 710, in wait_for
+    await self._frame.wait_for_selector(
+        self._selector, strict=True, timeout=timeout, state=state
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_frame.py", line 369, in wait_for_selector
+    await self._channel.send(
+        "waitForSelector", self._timeout, locals_to_params(locals())
+    )
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "D:\proyectos\RobotPrueba\venv\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Locator.wait_for: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("nb-select") to be visible
+
+
+2026-02-25 18:05:55,885 | ERROR | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-25 18:06:05,486 | INFO | Iniciando procesamiento de parámetros...
+2026-02-25 18:06:23,221 | INFO | Iniciando procesamiento de constancias...
+2026-02-25 18:08:52,736 | INFO | === INICIO DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
+2026-02-25 18:08:52,766 | INFO | Se obtuvo información de la vista
+2026-02-25 18:08:54,660 | INFO | Se obtuvo información del googlesheet
+2026-02-25 18:08:54,660 | INFO | Validación de oferta y grupo: (538, 'GRUPO 03')
+2026-02-25 18:08:54,661 | INFO | Validación aún pendiente de oferta y grupo: (538, 'GRUPO 03')
+2026-02-25 18:08:54,661 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 18:08:54,661 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 03')
+2026-02-25 18:08:54,662 | INFO | Validación de oferta y grupo: (538, 'GRUPO 04')
+2026-02-25 18:08:54,662 | INFO | Validación aún pendiente de oferta y grupo: (538, 'GRUPO 04')
+2026-02-25 18:08:54,662 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 18:08:54,662 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 04')
+2026-02-25 18:08:54,663 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 18:08:54,663 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 01')
+2026-02-25 18:08:54,663 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 18:08:54,664 | INFO | Validación correcta de oferta y grupo: (1655, 'GRUPO 02')
+2026-02-25 18:08:54,664 | INFO | Validación de oferta y grupo: (538, 'GRUPO 09')
+2026-02-25 18:08:54,664 | INFO | Validación aún pendiente de oferta y grupo: (538, 'GRUPO 09')
+2026-02-25 18:08:54,664 | INFO | Validación de oferta y grupo: (538, 'GRUPO 07')
+2026-02-25 18:08:54,664 | INFO | Validación aún pendiente de oferta y grupo: (538, 'GRUPO 07')
+2026-02-25 18:08:54,665 | INFO | Validación de oferta y grupo: (538, 'GRUPO 05')
+2026-02-25 18:08:54,665 | INFO | Validación aún pendiente de oferta y grupo: (538, 'GRUPO 05')
+2026-02-25 18:08:54,665 | INFO | Validación de oferta y grupo: (538, 'GRUPO 08')
+2026-02-25 18:08:54,665 | INFO | Validación aún pendiente de oferta y grupo: (538, 'GRUPO 08')
+2026-02-25 18:08:54,666 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 18:08:54,666 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 03')
+2026-02-25 18:08:54,666 | INFO | Validación de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 18:08:54,666 | INFO | Validación aún pendiente de oferta y grupo: (1655, 'GRUPO 04')
+2026-02-25 18:08:54,667 | INFO | Validación de oferta y grupo: (538, 'GRUPO 01')
+2026-02-25 18:08:54,667 | INFO | Validación aún pendiente de oferta y grupo: (538, 'GRUPO 01')
+2026-02-25 18:08:54,667 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 18:08:54,667 | INFO | Validación correcta de oferta y grupo: (1654, 'GRUPO 01')
+2026-02-25 18:08:54,667 | INFO | Validación de oferta y grupo: (538, 'GRUPO 02')
+2026-02-25 18:08:54,667 | INFO | Validación aún pendiente de oferta y grupo: (538, 'GRUPO 02')
+2026-02-25 18:08:54,668 | INFO | Validación de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 18:08:54,668 | INFO | Validación aún pendiente de oferta y grupo: (1654, 'GRUPO 02')
+2026-02-25 18:08:54,668 | INFO | Validación de oferta y grupo: (538, 'GRUPO 10')
+2026-02-25 18:08:54,668 | INFO | Validación aún pendiente de oferta y grupo: (538, 'GRUPO 10')
+2026-02-25 18:08:54,668 | INFO | Validación de oferta y grupo: (538, 'GRUPO 06')
+2026-02-25 18:08:54,668 | INFO | Validación aún pendiente de oferta y grupo: (538, 'GRUPO 06')
+2026-02-25 18:08:54,668 | INFO | Terminó validación del día
+2026-02-25 18:08:55,057 | INFO | Se envió correos de ofertas validades correctamente
+2026-02-25 18:08:55,117 | INFO | Se envió correos de ofertas pendientes de validar
+2026-02-25 18:08:55,118 | INFO | === FIN DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===
