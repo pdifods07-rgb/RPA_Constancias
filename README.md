@@ -19,6 +19,7 @@ git clone https://github.com/pdifods07-rgb/RPA_Constancias.git
 cd RPA_Constancias
 
 ## 2) Crear entorno virtual
+```bash
 py -m venv .venv
 
 ## 3) Activar entorno virtual
