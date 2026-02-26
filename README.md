@@ -1,99 +1,69 @@
-RPA_Constancias
+# RPA_Constancias
 
-Automatización para generación y validación de constancias mediante RPA en Python.
+Automatización para generación/validación de constancias (RPA) en Python.
 
-📌 Requisitos
+## Requisitos
+- Windows 10/11
+- Python 3.10+ (recomendado 3.12)
+- Git
+- (Opcional) Playwright / navegador instalado (si aplica)
+- Acceso a los servicios necesarios (DB / Google / etc.)
 
-Windows 10/11
+---
 
-Python 3.10+ (recomendado 3.12)
+## Instalación (primer uso)
 
-Git
-
-Playwright (si aplica)
-
-Acceso a base de datos SQL Server
-
-Credenciales Google Cloud (Service Account)
-
-🚀 Instalación (primer uso)
-1️⃣ Clonar el repositorio
+### 1) Clonar el repositorio
+```bash
 git clone https://github.com/pdifods07-rgb/RPA_Constancias.git
 cd RPA_Constancias
-2️⃣ Crear entorno virtual
+```
+### 2) Crear entorno virtual
+```bash
 py -m venv .venv
-3️⃣ Activar entorno virtual
+```
+
+### 3) Activar entorno virtual
 CMD
+```bash
 .venv\Scripts\activate
-PowerShell
-.venv\Scripts\Activate.ps1
-4️⃣ Instalar dependencias
+```
+###  4) Instalar dependencias
+```bash
 pip install -r requirements.txt
+```
 
-Si aún no existe requirements.txt, generarlo con:
+### Configuración (obligatoria)
+### Variables/archivos sensibles (NO se suben a GitHub)
 
-pip freeze > requirements.txt
+Este proyecto usa archivos/variables sensibles que deben existir localmente:
 
-Si el proyecto usa Playwright:
+credenciales.json (Google Cloud Service Account)
 
-playwright install
-⚙️ Configuración Obligatoria
-🔐 Archivos sensibles (NO se suben a GitHub)
+validaciongeneracionconstancias.json (Google Cloud Service Account)
 
-Este proyecto requiere los siguientes archivos locales:
+.env (opcional, para cadenas de conexión o tokens)
 
-credenciales.json
+📌 Importante: estos archivos están en .gitignore y deben ser creados manualmente en tu máquina.
 
-validaciongeneracionconstancias.json
 
-.env (opcional)
+### Estructura sugerida para credenciales
 
-⚠️ Estos archivos están en .gitignore y deben crearse manualmente.
+Coloca tus archivos de credenciales en la raíz (o en una carpeta secrets/ si prefieres).
 
-🗄️ Configuración Base de Datos
-
-Ejemplo de conexión SQL Server:
-
-conexion = pyodbc.connect(
-    "DRIVER={ODBC Driver 17 for SQL Server};"
-    "SERVER=MI_SERVIDOR;"
-    "DATABASE=MI_BASE;"
-    "Trusted_Connection=yes;"
-)
-
-Si usas .env:
-
-DB_SERVER=MI_SERVIDOR
-DB_NAME=MI_BASE
-DB_TRUSTED_CONNECTION=yes
-▶️ Ejecución
-
-Ejecutar el archivo principal:
-
-python main.py
-
-(Reemplazar main.py por el archivo real del proyecto si es distinto.)
-
-📁 Estructura del Proyecto
+Ejemplo:
+```bash
 RPA_Constancias/
-│
-├── config/
-├── db/
-├── services/
-├── subp1/
-├── subp2/
-├── subp3/
-├── subp4/
-│
-├── main.py
-├── requirements.txt
-├── .gitignore
-└── README.md
-🔒 Archivos Ignorados
-__pycache__/
-*.pyc
-venv/
-.venv/
-.env
-credenciales.json
-validaciongeneracionconstancias.json
+  credenciales.json
+  validaciongeneracionconstancias.json
+  .env
+  ...
+```
+
+
+### Ejecución
+
+Ejemplo genérico (ajusta según tu entrypoint real):
+```bash
+python main.py
+```
