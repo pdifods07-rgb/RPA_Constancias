@@ -18,11 +18,13 @@ Automatización para generación/validación de constancias (RPA) en Python.
 git clone https://github.com/pdifods07-rgb/RPA_Constancias.git
 cd RPA_Constancias
 
-
+### 2) Crear entorno virtual
 py -m venv .venv
+
+### 3) Activar entorno virtual
 .venv\Scripts\activate
-.venv\Scripts\Activate.ps1
 
 
+### 4) Instalar dependencias
 pip install -r requirements.txt
-pip freeze > requirements.txt
+
