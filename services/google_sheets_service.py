@@ -41,7 +41,10 @@ def obtener_ofertas_desde_google_sheet():
 
     return resultados
 
-def obtener_cantidad_por_grupo_googlesheet_2():
+def obtener_cantidad_por_grupo_googlesheet_2(en_ejecucion):
+    # 🔥 Convertimos pyodbc.Row → tupla normal
+    claves_validas = {(row[0], row[1]) for row in en_ejecucion}
+    
     SCOPES = [
         "https://www.googleapis.com/auth/spreadsheets",
         "https://www.googleapis.com/auth/drive"
@@ -75,9 +78,8 @@ def obtener_cantidad_por_grupo_googlesheet_2():
 
         clave = (oferta, grupo)
 
-        if clave not in resultados:
-            resultados[clave] = nro
-        else:
-            resultados[clave] += nro
+        # 🔥 SOLO procesar los que están en ejecución
+        if clave in claves_validas:
+            resultados[clave] = resultados.get(clave, 0) + nro
 
     return resultados

@@ -1,89 +1,67 @@
-from services.bd_service import obtener_cantidad_por_grupo_bd
-from services.google_sheets_service import obtener_cantidad_por_grupo_googlesheet_2
-from services.email_service import enviar_correo_validados, enviar_correo_pendientes
-from services.dict_service import separar_resultados
 from services.log_service import logger
-from db.queries import QUERY_POR_GRUPO_VISTA, QUERY_POR_GRUPO_TABLA
-from datetime import datetime
+from services.bd_service import *
+from db.queries import *
+from services.error_service import map_exception
+from services.google_sheets_service import obtener_cantidad_por_grupo_googlesheet_2
 
-def ejecutar_subp4():
-    logger.info("=== INICIO DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===")
+def ejecutar_subp4(df_unicos):
+
     try:
-        # Paso 1: Obtener número de filas por grupo de la vista
-        view_dict = obtener_cantidad_por_grupo_bd(QUERY_POR_GRUPO_VISTA)
-        logger.info("Se obtuvo información de la vista")
-        estado_validacion = {}
+        logger.info("=== INICIO SUBPROCESO 4 ===")
 
-        # logger.info("Inicio de bucle de validación")
-        # Paso 2: Obtener número de filas por grupo de la tabla
-        #table_dict = obtener_cantidad_por_grupo_bd(QUERY_POR_GRUPO_TABLA)
-        # Paso 2: Obtener número de filas por grupo del google sheet
-        table_dict = obtener_cantidad_por_grupo_googlesheet_2()
-        logger.info("Se obtuvo información del googlesheet")
+        # 1️⃣ Crear subp4 pendientes desde subp3 completados
+        ejecutar_query_simple(QUERY_CREAR_SUBP4_PENDIENTE)
 
-        for clave, cantidad_view in view_dict.items():
-            cantidad_bd = table_dict.get(clave, 0)
+        # 2️⃣ Obtener pendientes reales
+        pendientes = obtener_registros(QUERY_OBTENER_SUBP4_PENDIENTES)
 
-            if clave not in estado_validacion:
-                estado_validacion[clave] = {
-                    "cantidad_excel": cantidad_view,
-                    "cantidad_bd": cantidad_bd,
-                    "estado": "PENDIENTE",
-                    "ultimo_check": datetime.now()
-                }
-            else:
-                estado_validacion[clave]["cantidad_bd"] = cantidad_bd
-                estado_validacion[clave]["ultimo_check"] = datetime.now()
-
-        # Paso 3: Validación de ambas cantidades
-            logger.info(f"Validación de oferta y grupo: {clave}")
-            # Validación solo de los pendientes
-            if clave in estado_validacion and estado_validacion[clave]["estado"] == "PENDIENTE":
-                if cantidad_bd == cantidad_view:
-                    estado_validacion[clave]["estado"] = "VALIDADO"
-                    logger.info(f"Validación correcta de oferta y grupo: {clave}")
-                else:
-                    estado_validacion[clave]["estado"] = "PENDIENTE"
-                    logger.info(f"Validación aún pendiente de oferta y grupo: {clave}")
+        if not pendientes:
+            logger.info("No hay pendientes para validar")
+            return
         
-        # while True:
-        #     #Paso 2: Obtener número de filas por grupo de la BD
-        #     bd_dict = obtener_cantidad_por_grupo_bd(QUERY_POR_GRUPO_TABLA)
+        # 3️⃣ Obtener datos externos
+        view_dict = obtener_cantidad_por_grupo_bd(QUERY_POR_GRUPO_VISTA, pendientes)
+        sheet_dict = obtener_cantidad_por_grupo_googlesheet_2(pendientes) 
 
-        #     for clave, cantidad_view in view_dict.items():
-        #         cantidad_bd = bd_dict.get(clave, 0)
+        # 4️⃣  Pasarlos a EN_EJECUCION
+        valores_insert = []
 
-        #         if clave not in estado_validacion:
-        #             estado_validacion[clave] = {
-        #                 "cantidad_excel": cantidad_view,
-        #                 "cantidad_bd": cantidad_bd,
-        #                 "estado": "PENDIENTE",
-        #                 "ultimo_check": datetime.now()
-        #             }
-        #         else:
-        #             estado_validacion[clave]["cantidad_bd"] = cantidad_bd
-        #             estado_validacion[clave]["ultimo_check"] = datetime.now()
+        for oferta, grupo in pendientes:
+            nro = sheet_dict.get((oferta, grupo), 0)
+            valores_insert.append((oferta, grupo, nro))
 
-        #         # Validación
-        #         if cantidad_bd == cantidad_view:
-        #             estado_validacion[clave]["estado"] = "VALIDADO"
-        #         else:
-        #             estado_validacion[clave]["estado"] = "PENDIENTE"
+        if valores_insert:
+            ejecutar_query_masiva(QUERY_CREAR_SUBP4_EN_EJECUCION, valores_insert)
 
-        #     # Condición de salida
-        #     if all(v["estado"] == "VALIDADO" for v in estado_validacion.values()):
-        #         break
+        # 5️⃣ Obtener los que ahora están en ejecución
+        en_ejecucion = obtener_registros(QUERY_OBTENER_SUBP4_EN_EJECUCION)
 
-        logger.info("Terminó validación del día")
-        validados, pendientes = separar_resultados(estado_validacion)
-        # Paso 4: Enviar correo de éxito o de pendientes
-        if validados:
-            enviar_correo_validados(validados)
-            logger.info("Se envió correos de ofertas validades correctamente")
+        # 6️⃣ Validar
+        for oferta, grupo in en_ejecucion:
+            cantidad_view = view_dict.get((oferta, grupo), 0)
+            cantidad_sheet = sheet_dict.get((oferta, grupo), 0)
 
-        if pendientes:
-            enviar_correo_pendientes(pendientes)
-            logger.info("Se envió correos de ofertas pendientes de validar")
+            if cantidad_view == cantidad_sheet:
+                insertar_subp4_completado(oferta, grupo, cantidad_sheet)
+                logger.info(f"Validado {oferta} - {grupo}")
+            else:
+                insertar_registros(QUERY_INSERTAR_PENDIENTE, oferta, grupo)
+                logger.warning(
+                f"Reintento {oferta} - {grupo} "
+                f"(sheet = {cantidad_sheet}, view = {cantidad_view})"
+                )
+
+        logger.info("=== FIN SUBPROCESO 4 ===")
     except Exception as e:
-        print(f"Error: {e}")
-    logger.info("=== FIN DEL SUBPROCESO 4: VALIDACIÓN DE GENERACIÓN DE CONSTANCIAS ===")
+        error_info = map_exception(e)
+
+        registros = [
+            (row.ID_OFERTA_FORMATIVA, row.NOMBRE_GRUPO, 4, 4, error_info["id"])
+            for row in df_unicos.itertuples(index=False)
+        ]
+
+        ejecutar_query_masiva(QUERY_INSERTAR_ERROR, registros)
+
+        logger.info(str(e))
+
+        raise

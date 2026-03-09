@@ -25,14 +25,6 @@ carpeta_entrada = "subp1/input"
 carpeta_salida = "subp1/output"
 excel_insumo = "consulta_generada.xlsx"
 
-
-
-# ============================================================
-# OUTLOOK
-# ============================================================
-# Destinatarios
-EMAIL_DESTINATARIOS = ["DIFODSTI015@minedu.gob.pe"]
-
 # ============================================================
 # GOOGLE DRIVE
 # ============================================================
@@ -42,3 +34,9 @@ GOOGLE_SHEET_ID_2 = "1o7UElkWd27693x_PeVNQUsbSl_gteEFjd3NYo6ATltk"
 GOOGLE_SHEET_NAME_2 = "Hoja 1"
 # Ruta al archivo de credenciales JSON
 GOOGLE_CREDENTIALS_PATH_2 = "validaciongeneracionconstancias.json"
+
+# ============================================================
+# GMAIL
+# ============================================================
+# Destinatarios
+EMAIL_DESTINATARIOS = ["marynes130998@gmail.com"]
